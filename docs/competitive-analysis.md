@@ -6,7 +6,7 @@ I reviewed common patterns across personal finance apps to decide what to build 
 
 ## What users actually need (beyond logging)
 
-As life gets busier (moves, travel, more credit cards/subscriptions), the hard part isn’t only recording expenses — it’s:
+As life gets busier (graduation, moves, travel, more credit cards/subscriptions), the hard part isn’t only recording expenses — it’s:
 
 - seeing **cash flow trends** quickly,
 - staying within **budget**,
